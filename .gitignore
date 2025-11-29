@@ -10,17 +10,15 @@ obsolete/
 project_scratch/
 cole/
 
-.ipynb_checkpoints/
-__pycache__/
-*.pt
-*.ckpt
-
-*.pth
-*.pt
-*.ckpt
 checkpoints/
 models/
+.ipynb_checkpoints/
+__pycache__/
 
+
+*.pt
+*.ckpt
+*.pth
 *.pdf
 *.html
 
