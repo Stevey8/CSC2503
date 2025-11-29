@@ -3,9 +3,12 @@ scratch.ipynb
 *.DS_Store
 .DS_Store
 __pycache__/
+
+
 data/
 obsolete/
-project/
+project_scratch/
+cole/
 
 .ipynb_checkpoints/
 __pycache__/
